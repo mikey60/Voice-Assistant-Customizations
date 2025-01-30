@@ -11,9 +11,9 @@ This is the first cut at a 3D printed case for the Future Proof Homes Satellite1
 Various pictures of the case and the Satellite1 Dev Kit in the case can be found in the image folder. The yaml fle, jarvis Flac file and Jarvis piper files I used can be found in the files folder.
 
 **Configuring the Jarvis Voice in Home Assistant Piper Addon**
-The The Jarvis .onnx and .json files can be found in the files folder.  The high quality .onnx file was too large to uploadto Github so it can be found at <https://huggingface.co/jgkawell/jarvis/tree/main/en/en_GB/jarvis/high>.
+The The Jarvis .onnx and .json files can be found in the files folder.  The high quality .onnx file was too large to upload to Github. It can be found at <https://huggingface.co/jgkawell/jarvis/tree/main/en/en_GB/jarvis/high>.
 
-<https://huggingface.co/jgkawell/jarvis> is where I got the jarvis voice files, but I slightly modified the .json files and renamed the files to show up properly in the Piper addon.  I did not change the content of the .onnx files.  The .onnx and coresponding .json files have to have the same 'base' name and be placed in the home assistant share/piper folder.  You will have to create the piper folder under the share folder if you have not already added a custom voice. A list of the the jarvis voice files in my share/piper folder is show below.  The files can be easily placed in the share/piper directory if you have the Samba share addon installed for Home Assistant.
+<https://huggingface.co/jgkawell/jarvis> is where I got the jarvis voice files, but I slightly modified the .json files and renamed the files to show up properly in the Piper addon.  I did not change the content of the .onnx files.  The .onnx and coresponding .json files have to have the same 'base' name and be placed in the home assistant share/piper folder.  You will have to create the piper folder under the share folder if you have not already added a custom voice. A list of the the jarvis voice files in my share/piper folder is show below.  The files can be easily placed in the share/piper directory if you have the Samba share addon installed for Home Assistant.  The .json files should be in the UNIX UTF-8 file format.  
 
 ![Jarvis voice files in folder](https://github.com/mikey60/Voice-Assistant-Customizations/blob/main/Images/Jarvis%20voice%20files%20in%20folder.png)
 
