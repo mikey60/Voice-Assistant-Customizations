@@ -4,10 +4,10 @@
   I used 3 #2 x 0.25 inch sheet metal screws to hold the board to the the 3 posts with no inserts.
   I used 3 M3 x 6 mm screws with flat and lock washers to hold the speaker in the 3 M3 inserts.
   The ring holds the speaker grill cloth to the main housing.  I cut the circular grill cloth using a laser engraver.
-  ![](https://github.com/mikey60/Voice-Assistant-Customizations/blob/main/Images/ReSpeaker_XVF3800_small.jpg)
   **Many thanks to @formatBCE for his work on the Yaml code I am using for the HA voice assistant**
   The yaml  file and the latest XMOS firmware can be found at ![Respeaker-XVF3800-ESPHome-integration](https://github.com/formatBCE/Respeaker-XVF3800-ESPHome-integration)
-  
+   ![](https://github.com/mikey60/Voice-Assistant-Customizations/blob/main/Images/ReSpeaker_XVF3800_small.jpg)
+ 
 # Future Proof Homes Satellite1 Dev Kit 3D Printed Case and Customization Guide
 This is the first cut at a 3D printed case for the Future Proof Homes Satellite1 Dev Kit.  Theres a few things to note:
 
