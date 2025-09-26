@@ -1,9 +1,10 @@
 # Case for ReSpeaker XMOS XVF3800 with XIAO ESP32S3
   This is the second iternation of a case for the ReSpeaker XMOS XVF3800 wth XIAO ESP23S3 board from Seeed Studio. The stp and stl files are included.
-  The case fits a Dayton Audio PC68-4 2-1/2" Full-Range Poly Cone Driver in the bottom facing down
-  I used 3 #2 x 0.25 inch sheet metal screws to hold the board to the the 3 posts with no inserts
-  I used 3 M3 x 6 mm screws with flat and lock washers to hold the speaker in the 3 M3 inserts
+  The case fits a Dayton Audio PC68-4 2-1/2" Full-Range Poly Cone Driver in the bottom facing down.
+  I used 3 #2 x 0.25 inch sheet metal screws to hold the board to the the 3 posts with no inserts.
+  I used 3 M3 x 6 mm screws with flat and lock washers to hold the speaker in the 3 M3 inserts.
   The ring holds the speaker grill cloth to the main housing.  I cut the circular grill cloth using a laser engraver.
+  
   **Many thanks to @formatBCE for his work on the Yaml code I am using for the HA voice assistant**
   The yaml  file and the latest XMOS firmware can be found at ![](https://github.com/formatBCE/Respeaker-XVF3800-ESPHome-integration)
   
