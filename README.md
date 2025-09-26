@@ -6,6 +6,7 @@
   The ring holds the speaker grill cloth to the main housing.  I cut the circular grill cloth using a laser engraver.
   **Many thanks to @formatBCE for his work on the Yaml code I am using for the HA voice assistant**
   The yaml  file and the latest XMOS firmware can be found at ![Respeaker-XVF3800-ESPHome-integration](https://github.com/formatBCE/Respeaker-XVF3800-ESPHome-integration)
+   
    ![](https://github.com/mikey60/Voice-Assistant-Customizations/blob/main/Images/ReSpeaker_XVF3800_small.jpg)
  
 # Future Proof Homes Satellite1 Dev Kit 3D Printed Case and Customization Guide
