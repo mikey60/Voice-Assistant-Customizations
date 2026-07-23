@@ -1,7 +1,6 @@
 {
   "type": "micro",
   "wake_word": "Hey Jarvis",
-  "label": "Hey Jarvis",
   "author": "Tater Totterson",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
   "model": "hey_jarvis.tflite",
